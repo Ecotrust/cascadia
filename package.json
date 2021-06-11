@@ -1,0 +1,22 @@
+{
+  "name": "cascadia",
+  "version": "0.0.1",
+  "description": "Bioregional Cascading Style Sheet (CSS)",
+  "main": "cascadia.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ecotrust/cascadia.git"
+  },
+  "keywords": [
+    "css",
+    "stylesheet",
+    "cascadia",
+    "ecotrust",
+  ],
+  "author": "David Pollard",
+  "license": "The Unlicense",
+  "bugs": {
+    "url": "https://github.com/Ecotrust/cascadia/issues"
+  },
+  "homepage": "https://github.com/Ecotrust/cascadia"
+}

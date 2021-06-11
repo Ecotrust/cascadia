@@ -1,0 +1,14 @@
+/**
+ * Global Variables
+ * variables below are applied appropriately through this stylesheet
+ * change a variable below to change all instances
+ *
+ */
+
+:root {
+    --color-bg: #fff;
+    --color-text: #000;
+    --font-family: "Avenir", "Surveyor Text", Georgia, sans-serif;
+    --font-family-sans-serif: "Avenir", Verdana, sans-serif;
+    --font-family-serif: "Surveyor Text", Georgia, serif;
+}
